@@ -18,7 +18,7 @@ The notebook includes:
 ## Files
 
 - `reproduce_era5_example.Rmd`: main reproducible notebook
-- `R/functions_humidity.R`: auxiliary humidity-related functions
+- `functions_humidity.R`: auxiliary humidity-related functions
 
 ## Notes
 
