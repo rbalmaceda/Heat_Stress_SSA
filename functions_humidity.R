@@ -37,7 +37,7 @@ tdps2huss <- function(tdps, ps,formula ="bohren") {
   
   message("[", Sys.time(), "] Calculating specific humidity from dew point ...")
   
-  epsilon <- 0.621981  # Rv/Rd
+  epsilon <- 0.621981  # Rd/Rv
   
   huss <- tdps
   
