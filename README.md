@@ -8,7 +8,7 @@ This repository contains a reproducible R Markdown example illustrating part of 
 Heat stress conditions in southern South America: characterization and long-term changes under observational uncertainty
 
 The notebook includes:
-- retrieval of daily ERA5 data from the climate4R repository,
+- collecting daily ERA5 data from the climate4R repository,
 - estimation of specific humidity and relative humidity,
 - computation of heat stress indices,
 - percentile threshold calculation (P90/P99),
