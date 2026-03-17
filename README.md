@@ -1,6 +1,6 @@
 
 ---
-```
+```rmarkdown
 # Reproducible example for heat stress calculations using ERA5
 
 This repository contains a reproducible R Markdown example illustrating part of the workflow used in the manuscript:
