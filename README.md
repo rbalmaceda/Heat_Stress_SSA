@@ -1,11 +1,13 @@
 
 ---
 ```rmarkdown
-# Reproducible example for heat stress calculations using ERA5
+## Reproducible example for heat stress calculations using ERA5
 
-This repository contains a reproducible R Markdown example illustrating part of the workflow used in the manuscript:
+This repository contains a reproducible R Markdown example illustrating part of the workflow
+used in the manuscript:
 
-Heat stress conditions in southern South America: characterization and long-term changes under observational uncertainty
+Heat stress conditions in southern South America: characterization and long-term changes under
+observational uncertainty
 
 The notebook includes:
 - collecting daily ERA5 data from the climate4R repository,
@@ -22,8 +24,10 @@ The notebook includes:
 
 ## Notes
 
-This is a lightweight reproducible example, not the full analysis pipeline used in the manuscript.  
-To reduce computational cost, the example is restricted to a small domain near Porto Alegre and to DJF only.
+This is a lightweight reproducible example, not the full analysis pipeline used in the
+manuscript.  
+To reduce computational cost, the example is restricted to a small domain near Porto
+Alegre and to DJF only.
 
 ## Requirements
 
